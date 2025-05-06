@@ -1,6 +1,6 @@
 ## Hola 👋
 
-:pencil2: **Un poco sobre mi...**
+:pencil2: **Un poco sobre mi... Soy...**
 
 :computer: **Ingeniera química con maestría en Big Data**
 
