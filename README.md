@@ -1,4 +1,4 @@
-## Hola! 👋
+## Hola 👋
 
 :pencil2: **Un poco sobre mi...**
 
