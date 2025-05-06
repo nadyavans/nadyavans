@@ -1,11 +1,11 @@
 ## Hola 👋
 
-:pencil2: **Un poco sobre mi... Soy...**
+:pencil2:  **Un poco sobre mi... Soy...**
 
-:computer: **Ingeniera química con maestría en Big Data**
+:computer:  **Ingeniera química con maestría en Big Data**
 
-:pencil: **Creadora de contenido**
+:pencil:  **Creadora de contenido**
 
-:art: **Pintora en mis ratos libres**
+:art:  **Pintora en mis ratos libres**
 
-:family: **Madre de tiempo completo**
+:family:  **Madre de tiempo completo**
